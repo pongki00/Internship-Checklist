@@ -13,4 +13,4 @@ Hey there, there is a checklist up there, which you can download as a reference 
 ## On the first week of your intern
 1. Email the **supervisor and company details** to your mentor 
 
---Pongki--
+**--Pongki--**
