@@ -1,6 +1,5 @@
 # Internship-Checklist
-There is a checklist up there, which you can download as a reference. \n
-Hey there, this checklist is just a guide for you to check what you have done. If there is any mistake or anything that I have missed out, please PM me. 
+Hey there, there is a checklist up there, which you can download as a reference to guide for you to check what you have done. If there is any mistake or anything that I have missed out, please PM me. Download it as ZIP and use it as you wish.
 
 ## Before you get an intern 
 1. Send your **CV and Cover letter** to your mentor (ask him/her to review)
