@@ -1,5 +1,5 @@
 # Internship-Checklist
-There is a checklist up there, which you can download as a reference. 
+There is a checklist up there, which you can download as a reference. \n
 Hey there, this checklist is just a guide for you to check what you have done. If there is any mistake or anything that I have missed out, please PM me. 
 
 ## Before you get an intern 
