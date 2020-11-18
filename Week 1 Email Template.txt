@@ -5,8 +5,8 @@ Start Date:
 End Date: 
 
 Information of the company: 
-Comapny Name: 
-Comapny Address: 
+Company Name: 
+Company Address: 
 
 Information of your company supervisor 
 Name: 
