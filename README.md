@@ -4,6 +4,8 @@ Hey there, there is a checklist and week 1 email template up there, which you ca
 ## Before you get an intern 
 1. Send your **CV and Cover letter** to your mentor (ask him/her to review)
 2. Meet with your mentor (afterwards need to create a report for this meeting)
+3. Apply to APU for Support Letter (email your name, tp no, intake to derrick.ja@staffemail.apu.edu.my)
+
 
 ## After you found an intern
 1. Request **Offer Letter** from the company
