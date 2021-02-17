@@ -15,4 +15,14 @@ Hey there, there is a checklist and week 1 email template up there, which you ca
 ## On the first week of your intern
 1. Email the **supervisor and company details** to your mentor & Mr Kau Guan Kiat 
 
+
+## Part 1 Submission
+Combine all signed documents into 1 pdf and submit in moodle
+
+
+## Website for converting pdf into png
+https://pdf2png.com/
+https://pdftopng.net/
+
+
 **--Pongki--**
